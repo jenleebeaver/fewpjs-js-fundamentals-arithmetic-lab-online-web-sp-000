@@ -13,3 +13,4 @@ var random = Math.floor(Math.random() * 1000) + 1
 var mod = 16 % 6
 
 // 4. Create a variable called max that will return "20" as the highest number in the set.
+var max = Math.max(5, 10, 15, 20)
