@@ -5,3 +5,5 @@
 const num1 = 2
 const num2 = 31
 var multiply = num1 * num2
+
+// 2. Create a variable called random that will generate a random integer greater than 0.
