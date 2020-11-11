@@ -10,6 +10,6 @@ var multiply = num1 * num2
 var random = Math.floor(Math.random() * 1000) + 1
 
 // 3. Create a variable called mod set to an equation whose remainder is equal to "4".
-var mod = 16 % 6 
+var mod = 16 % 6
 
 // 4. Create a variable called max that will return "20" as the highest number in the set.
