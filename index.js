@@ -5,4 +5,4 @@
 const var1 = 2
 const var2 = 31
 var multiply = num1 * num2
-multiply = "62"
+
