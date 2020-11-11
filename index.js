@@ -7,4 +7,4 @@ const num2 = 31
 var multiply = num1 * num2
 
 // 2. Create a variable called random that will generate a random integer greater than 0.
-var random = Math.floor(Math.random() * 1000) + 1 
+var random = Math.floor(Math.random() * infinity) + 1 
